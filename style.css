@@ -1,0 +1,53 @@
+.ceva ul {
+    
+    list-style: none;
+    background-color: rgb(0, 174, 255);
+}
+
+.altceva {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+.alt1 {
+    text-align: center;
+}
+.paragraf{ 
+    text-align: center;
+
+}
+.btn{
+    text-align: center;
+}
+.aoleu{
+background-color: rgba(182, 176, 176, 0.844);
+padding-top: 50px;
+padding-bottom: 195px;
+display: block;
+unicode-bidi: isolate;
+margin-top: 20px;
+padding-top: 50px;
+
+}
+.steag{
+width: 200px;
+max-width: 90%;
+text-align: center;
+padding-left: 638px;
+margin-top: 0px;
+padding-top: 0px;
+}
+
+.off{
+text-align:center;
+padding-top: 10px;
+
+}
+.ultima{
+text-align: center;
+padding-top: 10px;
+
+}
